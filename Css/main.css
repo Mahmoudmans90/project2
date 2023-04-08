@@ -122,7 +122,7 @@ display: none;
 
 }
 .landing{
-  background-image: url(../images/background.jpeg);
+  background-image: url(../Images/background.jpeg);
  background-size: cover;
   height: calc(100vh - 64px);
   position: relative;
